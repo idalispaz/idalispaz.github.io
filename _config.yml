@@ -1,11 +1,11 @@
 # Site settings
 author: Idalis Paz
-title: 
+title: Why Did You Decide to Study Software Engineer?
 header-img: img/home-bg.png
 email: idalispaz@gmail.com
 copyright_name: Idalis Paz
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why Did I?
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  idalispaz
