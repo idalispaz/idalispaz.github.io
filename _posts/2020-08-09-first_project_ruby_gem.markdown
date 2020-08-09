@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Project: Ruby Gem!"
-date:       2020-08-09 22:40:46 +0000
+date:       2020-08-09 18:40:47 -0400
 permalink:  first_project_ruby_gem
 ---
 
